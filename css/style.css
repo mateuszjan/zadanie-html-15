@@ -1,0 +1,30 @@
+* {
+    color: white;
+}
+
+.square {
+    width: 300px;
+    height: 550px;
+    background-color:gray;
+    position: absolute;
+    
+}
+
+.text {
+    background-color: gray;
+    position: relative;
+    width: 100px;
+    top: 15px;
+    left: 15px;
+}
+
+.square-inner {
+    height: 100px;
+    width: 100px;
+    background-color:orange;
+    position: relative;
+    left: 20px;
+    top: 45px;
+    display: inline-block;
+}
+
